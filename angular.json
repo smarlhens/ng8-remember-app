@@ -28,7 +28,10 @@
                             "src/assets"
                         ],
                         "styles": [
-                            "src/assets/sass/main.scss"
+                            "src/assets/sass/main.scss",
+                            "node_modules/material-design-icons/iconfont/material-icons.css",
+                            "node_modules/roboto-fontface/css/roboto/roboto-fontface.css",
+                            "node_modules/sass-spacing/index.css"
                         ],
                         "scripts": []
                     },
@@ -93,7 +96,10 @@
                             "src/assets"
                         ],
                         "styles": [
-                            "src/assets/sass/main.scss"
+                            "src/assets/sass/main.scss",
+                            "node_modules/material-design-icons/iconfont/material-icons.css",
+                            "node_modules/roboto-fontface/css/roboto/roboto-fontface.css",
+                            "node_modules/sass-spacing/index.css"
                         ],
                         "scripts": []
                     }
